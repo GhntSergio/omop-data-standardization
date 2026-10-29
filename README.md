@@ -2,6 +2,8 @@
 
 > 🇬🇧 **English summary:** Transforms heterogeneous medical data into the OMOP Common Data Model (OHDSI standard) so it can be queried and analyzed consistently. Built with Python and SQLite in a Jupyter notebook.
 
+![From heterogeneous medical data to the OMOP CDM](docs/overview.png)
+
 ## Objectif:
 
 Transformer des données médicales hétérogènes en un format standardisé (OMOP).
